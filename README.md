@@ -25,7 +25,7 @@
 
 1. Склонируйте данный репозиторий на свой сервер:
    
- # git clone <ссылка на репозиторий.git>
+ # git clone https://github.com/alexandr-elefteriadi/install-app-bash.git
 
 2. Перейдите в каталог с репозиторием:
 
